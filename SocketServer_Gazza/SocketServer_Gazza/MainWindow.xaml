@@ -1,0 +1,20 @@
+﻿<Window x:Class="SocketServer_Gazza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocketServer_Gazza"
+        mc:Ignorable="d"
+        Title="SERVER" Height="387" Width="427">
+    <Grid Margin="0,0,0,-6">
+        <Button x:Name="btn_Invio" Content="Invia messaggio" HorizontalAlignment="Left" Margin="30,185,0,0" VerticalAlignment="Top" Click="btn_Invio_Click" Height="36" Width="94"/>
+        <ListBox x:Name="lst_Lista" Margin="193,145,46,44" Height="NaN" Width="NaN"/>
+        <TextBox x:Name="txt_Inserisci" HorizontalAlignment="Left" Margin="114,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Height="22"/>
+        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Margin="12,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Height="22"/>
+        <Line Name="line7" Stroke="Black" StrokeThickness="2" X1="10" X2="578" Y1="70" Y2="70" Margin="-19,10,-7,167" />
+        <Label Content="Indirizzo del client:" HorizontalAlignment="Left" Margin="0,28,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Messaggio da inviare:" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="131"/>
+        <Label Content="Messaggi ricevuti:" HorizontalAlignment="Left" Margin="189,114,0,0" VerticalAlignment="Top" Width="131"/>
+
+    </Grid>
+</Window>

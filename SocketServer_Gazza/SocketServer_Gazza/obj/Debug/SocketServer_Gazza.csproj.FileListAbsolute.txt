@@ -1,0 +1,16 @@
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\bin\Debug\SocketServer_Gazza.exe.config
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\bin\Debug\SocketServer_Gazza.exe
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\bin\Debug\SocketServer_Gazza.pdb
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\App.g.cs
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza_MarkupCompile.cache
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza_MarkupCompile.lref
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\MainWindow.baml
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.g.resources
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.Properties.Resources.resources
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.exe
+D:\OneDrive\Desktop\SocketServer_Gazza\SocketServer_Gazza\obj\Debug\SocketServer_Gazza.pdb
