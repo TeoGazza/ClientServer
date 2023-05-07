@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient_Gazza", "SocketClient_Gazza\SocketClient_Gazza.csproj", "{4162EB06-F3F5-4646-9EB2-A9715A70D53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4162EB06-F3F5-4646-9EB2-A9715A70D53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4162EB06-F3F5-4646-9EB2-A9715A70D53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4162EB06-F3F5-4646-9EB2-A9715A70D53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4162EB06-F3F5-4646-9EB2-A9715A70D53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F4337F-7C11-4D29-A4BB-815D13B63D54}
+	EndGlobalSection
+EndGlobal

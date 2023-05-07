@@ -1,0 +1,26 @@
+﻿<Window x:Class="SocketClient_Gazza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocketClient_Gazza"
+        mc:Ignorable="d"
+        Title="CLIENT" Height="386" Width="557">
+    <Grid Margin="0,0,0,106">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btn_Invio" Content="Invia messaggio" HorizontalAlignment="Left" Margin="49,201,0,0" VerticalAlignment="Top" Click="btn_Invio_Click" Height="32" Width="94"/>
+        <ListBox x:Name="lst_Lista" Margin="233,150,62,-40" Height="NaN" Width="NaN"/>
+        <TextBox x:Name="txt_Inserisci" HorizontalAlignment="Left" Margin="325,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Height="26"/>
+        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Margin="10,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="172" Height="22"/>
+        <Label x:Name="lbl_LocalIp" Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="142" Opacity="0.99" Visibility="Hidden"/>
+        <TextBox x:Name="txt_IpLocal" HorizontalAlignment="Left" Margin="70,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Height="26"/>
+        <Label Content="Ip server" HorizontalAlignment="Left" Margin="265,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ip locale" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Messaggio da inviare" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" Width="121"/>
+        <Line Name="line7" Stroke="Black" StrokeThickness="2" X1="10" X2="578" Y1="70" Y2="70" Margin="-19,23,-7,139" />
+        <Label Content="Messaggi ricevuti" HorizontalAlignment="Left" Margin="233,119,0,0" VerticalAlignment="Top" Width="122"/>
+
+    </Grid>
+</Window>

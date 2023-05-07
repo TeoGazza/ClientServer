@@ -1,0 +1,16 @@
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\bin\Debug\SocketClient_Gazza.exe.config
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\bin\Debug\SocketClient_Gazza.exe
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\bin\Debug\SocketClient_Gazza.pdb
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\App.g.cs
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza_MarkupCompile.cache
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza_MarkupCompile.lref
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\MainWindow.baml
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.g.resources
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.Properties.Resources.resources
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.exe
+D:\OneDrive\Desktop\SocketClient_Gazza\SocketClient_Gazza\obj\Debug\SocketClient_Gazza.pdb
